@@ -7,6 +7,7 @@ pages = set()
 
 
 def getLinks(pageUrl):
+    global pages
     try:
         html = urlopen('http://en.wikipedia.org' + pageUrl)
     except (HTTPError, URLError) as e:
