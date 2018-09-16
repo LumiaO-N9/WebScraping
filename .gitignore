@@ -127,3 +127,6 @@ bin/wheel
 include/python3.6m
 
 .vscode/
+bin/flake8
+bin/pycodestyle
+bin/pyflakes
