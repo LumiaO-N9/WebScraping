@@ -125,3 +125,5 @@ bin/python3
 bin/python3.6
 bin/wheel
 include/python3.6m
+
+.vscode/
