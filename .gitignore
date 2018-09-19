@@ -130,3 +130,4 @@ include/python3.6m
 bin/flake8
 bin/pycodestyle
 bin/pyflakes
+bin/yapf
