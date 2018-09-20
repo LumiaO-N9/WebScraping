@@ -131,3 +131,4 @@ bin/flake8
 bin/pycodestyle
 bin/pyflakes
 bin/yapf
+chapter5/wikipedia.sql
