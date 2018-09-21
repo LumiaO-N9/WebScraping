@@ -132,3 +132,5 @@ bin/pycodestyle
 bin/pyflakes
 bin/yapf
 chapter5/wikipedia.sql
+chapter5/BaconGame.py
+chapter5/findKevinBaconRoute.py
