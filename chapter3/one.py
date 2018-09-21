@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 html = urlopen(
-    "http://en.wikipedia.org/wiki/Kevin_Bacon")  # no great fxxk wall
+    "https://en.wikipedia.org/wiki/Kevin_Bacon")  # no great fxxk wall
 bsObj = BeautifulSoup(html)
 for link in bsObj.findAll("a"):
     if 'href' in link.attrs:
