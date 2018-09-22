@@ -134,3 +134,5 @@ bin/yapf
 chapter5/wikipedia.sql
 chapter5/BaconGame.py
 chapter5/findKevinBaconRoute.py
+bin/py.test
+bin/pytest
